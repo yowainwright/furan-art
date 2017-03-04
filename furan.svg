@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="241px" height="234px" viewBox="0 0 241 234" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Brand</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F89904" offset="0%"></stop>
+            <stop stop-color="#D053C4" offset="43.6005261%"></stop>
+            <stop stop-color="#1502F9" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.47137605,36 L0.47137605,0 L36.4713761,0 L36.4713761,6 L12.4713761,6 L12.4713761,18 L30.4713761,18 L30.4713761,24 L12.4713761,24 L12.4713761,36 L0.47137605,36 Z M48.4713761,30 L48.4713761,0 L54.4713761,0 L54.4713761,30 L48.4713761,30 Z M54.4713761,36 L54.4713761,30 L66.4713761,30 L66.4713761,24 L72.4713761,24 L72.4713761,0 L84.4713761,0 L84.4713761,30 L78.4713761,30 L78.4713761,36 L54.4713761,36 Z M120.471376,36 L120.471376,30 L132.471376,30 L132.471376,36 L120.471376,36 Z M120.471376,18 L120.471376,6 L108.471376,6 L108.471376,18 L120.471376,18 Z M96.4713761,36 L96.4713761,0 L126.471376,0 L126.471376,6 L132.471376,6 L132.471376,18 L126.471376,18 L126.471376,24 L120.471376,24 L120.471376,30 L114.471376,30 L114.471376,24 L108.471376,24 L108.471376,36 L96.4713761,36 Z M144.471376,36 L144.471376,6 L150.471376,6 L150.471376,18 L162.471376,18 L162.471376,6 L150.471376,6 L150.471376,0 L174.471376,0 L174.471376,6 L180.471376,6 L180.471376,36 L162.471376,36 L162.471376,24 L150.471376,24 L150.471376,36 L144.471376,36 Z M192.471376,36 L192.471376,0 L198.471376,0 L198.471376,6 L204.471376,6 L204.471376,12 L210.471376,12 L210.471376,18 L216.471376,18 L216.471376,0 L228.471376,0 L228.471376,36 L216.471376,36 L216.471376,30 L210.471376,30 L210.471376,24 L204.471376,24 L204.471376,18 L198.471376,18 L198.471376,36 L192.471376,36 Z" id="path-2"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.062745098   0 0 0 0 0.0549019608   0 0 0 0 0.0549019608  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Brand" transform="translate(6.000000, 0.000000)">
+            <g id="Icon" transform="translate(28.000000, 0.000000)">
+                <path d="M35.3632812,0.4921875 L134.78125,0 L172.304687,99.671875 L110.550781,152.03125 C110.550781,152.03125 111.308021,147.359759 110.550781,143.819824 C109.793541,140.279889 107.34375,137.039063 107.34375,137.039063 L162.230469,95.765625 L133.246094,2.6328125 L37.1835938,2.828125 L9.1953125,95.5859375 L63.28125,136.878906 C63.28125,136.878906 61.4727085,139.040636 60.5200195,142.672363 C59.5673306,146.30409 59.7890625,150.191406 59.7890625,150.191406 L0,99.4335938 L35.3632812,0.4921875 Z" id="Outline" fill="#000000"></path>
+                <circle id="Oval" fill="#000000" cx="85" cy="150" r="20"></circle>
+                <path d="M40.2597656,7.828125 L130.270508,6.828125 L156.419922,94.0400391 L103.914062,132.796875 C103.914062,132.796875 93.5800781,124.081055 85.1787109,124.081055 C76.7773438,124.081055 66.1191406,131.236328 66.1191406,131.236328 L15.1435547,94.1738281 L40.2597656,7.828125 Z" id="Background" fill="url(#linearGradient-1)"></path>
+            </g>
+            <g id="Text-Illustration" transform="translate(0.000000, 191.000000)">
+                <g id="Furan">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#000000" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <use fill="black" fill-opacity="1" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

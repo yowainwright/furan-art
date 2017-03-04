@@ -1,10 +1,14 @@
-# Furan (Art)
-> Art for Furan Open Source 
+<p align="center">
+  <img alt="Furan banner" src="http://imgh.us/furan.svg" width="400" />
+</p>
+<hr>
+<h1 align="center">Furan (Art)</h1>
+
+> Art for [Furan](https://github.com/dollarshaveclub/furan) Open Source 
 
 This repo introduces a currently new[er] workflow for developing designs for a tech open source product called [Furan](https://github.com/dollarshaveclub/furan).
 
 ## Basics
-> Basics for collaborating on Furan Art Repo
 
 This repo assumes you have a general understanding of git and not so much of an understanding of Sketch. (It's maintained by developers interested in a git/design workflow)
 
